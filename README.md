@@ -24,9 +24,9 @@
 
 - 📋 Languages:
     
-    ![Java](https://cdn-icons-png.flaticon.com/128/5968/5968282.png)
-    ![C](https://cdn-icons-png.flaticon.com/128/9969/9969697.png).
-    ![C++](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=white)
+    ![C](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/c++-3670A0?style=for-the-badge&logo=c++&logoColor=blue)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     
