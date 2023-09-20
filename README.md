@@ -10,7 +10,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently studyng on Rey Juan Carlos University in Madrid`
+- 🔭 I’m currently studying on Rey Juan Carlos University in Madrid`
 
 - ⚡ Coding :I like lenguages like Java, C, C++, C#.
 
