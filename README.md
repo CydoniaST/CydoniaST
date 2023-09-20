@@ -7,10 +7,10 @@
 </div>
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<b> </b>
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently studing on Rey Juan Carlos University in Madrid`
+- 🔭 I’m currently studyng on Rey Juan Carlos University in Madrid`
 
 - ⚡ Coding :I like lenguages like Java, C, C++, C#.
 
