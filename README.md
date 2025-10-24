@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <div align="center">
   
@@ -6,12 +8,13 @@
 
 </div>
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<!-- Imagen decorativa a la derecha -->
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" style="margin-top:-20px; margin-left:15px;">
 
 ---
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
+
 
 - 🔭 I’m currently studying at **Rey Juan Carlos University** in Madrid.  
 - ⚡ Coding: I like languages like **Java, C, C++, C#**.  
