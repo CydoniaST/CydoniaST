@@ -16,9 +16,8 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 
 
-- 🔭 I’m currently studying at **Rey Juan Carlos University** in Madrid.  
-- ⚡ Coding: I like languages like **Java, C, C++, C#**.  
-- 💪🏼 *"Great Developers never stop learning."*
+- 🔭 I’m currently working at GMV as a cybersecurity software engineer and I studied at **Rey Juan Carlos University** in Madrid.  
+- ⚡ Coding: I like languages like **Java, C, C++, C#, Python**.  
 
 <br>
 
